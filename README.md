@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sebastian Alejandro Reibold, a Computer Science student at Universidad Nacional del Comahue and a self-taught Frontend Developer.</h2>
+<h2 align="left">I'm Sebastian Alejandro Reibold, a Computer Science student at Universidad Nacional del Comahue and a self-taught Frontend Developer.</h2>
 ###
 
 <div align="center">
