@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alejandro Reibold</h1>
 <h3 align="center">Computer Science Student at Universidad Nacional del Comahue and a self-taught Frontend Developer.</h3>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebareibold&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" alt="sebareibold" />
-</div>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-alejandro-reibold-783a73297/" target="_blank">
