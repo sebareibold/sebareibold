@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alejandro Reibold</h1>
-<h3 align="center">Computer Science Student at Universidad Nacional del Comahue and a self-taught Frontend Developer.</h3>
+<h3 align="center">Computer Science Student at Universidad Nacional del Comahue and a self-taught Fullstack Developer.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
