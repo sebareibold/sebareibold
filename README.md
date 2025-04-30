@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alejandro Reibold</h1>
-<h3 align="center">Computer Science at UNCO and a self-taught Fullstack Developer.</h3>
+<h3 align="center">Pursuing a degree in Computer Science at UNCO and a self-taught Fullstack Developer.</h3>
 
 <h3 align="center">Connect me:</h3>
 <p align="center">
