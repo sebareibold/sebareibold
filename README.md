@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alejandro Reibold</h1>
-<h3 align="center">Computer Science Student at Universidad Nacional del Comahue and a self-taught Fullstack Developer.</h3>
+<h3 align="center">Computer Science at UNCO and a self-taught Fullstack Developer.</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-alejandro-reibold-783a73297/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
