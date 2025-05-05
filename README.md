@@ -3,9 +3,9 @@
 
 ### 🚀 About Me
 
-I'm a Computer Science student at **UNCO (Universidad Nacional del Comahue)** and a passionate self-taught developer. I love building software, understanding technology, and continuously learning.
+I'm a Computer Science student at **UNCO (Universidad Nacional del Comahue)** and a passionate self-taught developer. I love understanding technology, and continuously learning.
 
-### 🌱 My Current Focus
+### 🔐 My Current Focus
 
 Primarily, my focus is on my **Computer Science degree** at UNCO, where I'm currently in my **4th year**. In parallel with my university studies, I'm actively learning and practicing:
 *   **Backend Development:** Diving deep into **Node.js and Express.js**, focusing on core concepts and building robust **REST APIs**.
