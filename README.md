@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Sebastian Alejandro Reibold</h1>
-<h3 align="center">Estudiante de Ciencias de la Computación | Desarrollador con foco en Backend</h3>
+<h3 align="center">  Desarrollador con foco en Backend | Estudiante Avanzado de Licencitura en Cs. de la Computación </h3>
 
 ### 🚀 Sobre Mí
 
