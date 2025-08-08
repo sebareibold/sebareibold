@@ -5,9 +5,9 @@
 
 Soy estudiante avanzado de **Ciencias de la Computación** en la **UNCO (Universidad Nacional del Comahue)** y un desarrollador autodidacta. 
 
-Cuento con experiencia tanto en desarrollo frontend como backend, participando en proyectos web de forma autónoma y abordando el proceso completo de desarrollo end-to-end.En el área frontend, he trabajado con tecnologías como React, JavaScript, HTML, CSS, TailwindCSS, Bootstrap y Next.js. 
+Cuento con experiencia tanto en desarrollo **frontend** como **backend**, participando en proyectos web de forma autónoma y abordando el proceso completo de desarrollo **end-to-end**. En el área frontend, he trabajado con tecnologías como React, JavaScript, HTML, CSS, TailwindCSS, Bootstrap y Next.js. 
 
-En el ámbito backend, he utilizado Node.js, Express y WebSockets, desarrollando APIs REST siguiendo buenas prácticas de organización como separación en models, routes, managers y conexión con bases de datos. En cuanto al manejo de bases de datos, tengo experiencia trabajando con MongoDB (utilizando MongoDB Atlas), así como también con bases SQL, principalmente PostgreSQL y Supabase.
+En el ámbito backend, he utilizado Node.js, Express y WebSockets, desarrollando **APIs REST** siguiendo buenas prácticas de organización como separación en models, routes, managers y conexión con bases de datos. En cuanto al manejo de bases de datos, tengo experiencia trabajando con MongoDB (utilizando MongoDB Atlas), así como también con bases SQL, principalmente PostgreSQL y Supabase.
 
 ### 🔮  Mi Foco Actual y Futuro
 
