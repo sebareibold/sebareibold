@@ -3,16 +3,15 @@
 
 ### 👋 Sobre Mí
 
-Soy estudiante avanzado de **Ciencias de la Computación** en la **UNCO (Universidad Nacional del Comahue)** y un desarrollador autodidacta. Mi curiosidad me impulsa a estar en un proceso de aprendizaje continuo para entender a fondo la tecnología y su impacto en el mundo real.
+Soy estudiante avanzado de **Ciencias de la Computación** en la **UNCO (Universidad Nacional del Comahue)** y un desarrollador autodidacta. Mi curiosidad me impulsa a estar en un proceso de aprendizaje continuo para entender a fondo la tecnología y su impacto en el mundo real. 
 
-Aunque mi especialización actual es el backend, también he adquirido conocimientos básicos de **desarrollo frontend** (React, HTML, CSS) para tener una visión integral del ecosistema digital y entender cómo se conectan ambas partes de una aplicación.
+Cuento con experiencia tanto en desarrollo frontend como backend, participando en proyectos web de forma autónoma y abordando el proceso completo de desarrollo end-to-end.En el área frontend, he trabajado con tecnologías como React, JavaScript, HTML, CSS, TailwindCSS, Bootstrap y Next.js. 
 
-### 🎯 Mi Foco Actual y Futuro
+En el ámbito backend, he utilizado Node.js, Express y WebSockets, desarrollando APIs REST siguiendo buenas prácticas de organización como separación en models, routes, managers y conexión con bases de datos. En cuanto al manejo de bases de datos, tengo experiencia trabajando con MongoDB (utilizando MongoDB Atlas), así como también con bases SQL, principalmente PostgreSQL y Supabase.
 
-Mi principal enfoque es consolidar mis habilidades en el desarrollo del lado del servidor, mientras exploro activamente las áreas que definirán el futuro de la tecnología.
+### 🔮  Mi Foco Actual y Futuro
 
-*   **Desarrollo Backend (Foco Principal):** Profundizando en la creación de APIs robustas y escalables con **Node.js y Express.js**. Actualmente estoy trabajando con bases de datos tanto SQL (**PostgreSQL**) como NoSQL (**MongoDB**) para entender sus distintas aplicaciones y ventajas.
-*   **Explorando Big Data y Machine Learning (ML):** Estoy comenzando a adentrarme en los conceptos fundamentales que rodean el procesamiento de grandes volúmenes de datos y el aprendizaje automático. Mi objetivo a corto plazo es construir una base sólida en **Python** y las librerías principales de este ecosistema.
+Actualmente, mi prioridad es la Universidad, al mismo tiempo que me capacito de forma autodidacta en tecnologías que me permitan insertarme en el mundo IT, ya sea participando en proyectos o accediendo a una posición dentro del sector.
 
 ### 🛠️ Tecnologías y Herramientas
 
