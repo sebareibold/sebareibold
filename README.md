@@ -3,7 +3,7 @@
 
 ### 👋 Sobre Mí
 
-Soy estudiante avanzado de **Ciencias de la Computación** en la **UNCO (Universidad Nacional del Comahue)** y un desarrollador autodidacta. Mi curiosidad me impulsa a estar en un proceso de aprendizaje continuo para entender a fondo la tecnología y su impacto en el mundo real. 
+Soy estudiante avanzado de **Ciencias de la Computación** en la **UNCO (Universidad Nacional del Comahue)** y un desarrollador autodidacta. 
 
 Cuento con experiencia tanto en desarrollo frontend como backend, participando en proyectos web de forma autónoma y abordando el proceso completo de desarrollo end-to-end.En el área frontend, he trabajado con tecnologías como React, JavaScript, HTML, CSS, TailwindCSS, Bootstrap y Next.js. 
 
