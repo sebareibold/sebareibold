@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hola, soy Sebastian Alejandro Reibold</h1>
+<h1 align="center"> Hola, soy Sebastian Alejandro Reibold</h1>
 <h3 align="center">  Estudiante avanzado de Lic. en Ciencias de la Computación </h3>
 
-### 🚀 Sobre Mí
+### 👋 Sobre Mí
 
 Soy estudiante avanzado de **Ciencias de la Computación** en la **UNCO (Universidad Nacional del Comahue)** y un desarrollador autodidacta. Mi curiosidad me impulsa a estar en un proceso de aprendizaje continuo para entender a fondo la tecnología y su impacto en el mundo real.
 
