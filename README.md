@@ -1,11 +1,11 @@
 <h1 align="center"> Hola, soy Sebastian Alejandro Reibold</h1>
-<h3 align="center">  Estudiante avanzado de Lic. en Ciencias de la Computación | Fullstack Developer </h3>
+<h3 align="center">  Analista Programador Universitario | Fullstack Developer </h3>
 
 ### 👋 Sobre Mí
 
-Soy estudiante avanzado de **Ciencias de la Computación** en la **UNCO (Universidad Nacional del Comahue)** y un desarrollador autodidacta. 
+Soy estudiante avanzado de Ciencias de la Computación en la Universidad Nacional del Comahue (UNCO), con el título intermedio de Analista Programador Universitario, y también me desempeño como desarrollador de software autodidacta, con experiencia en pasantías, proyectos independientes y formación mediante cursos.
 
-Cuento con experiencia tanto en desarrollo **frontend** como **backend**, participando en proyectos web de forma autónoma y abordando el proceso completo de desarrollo **end-to-end**. En el área frontend, he trabajado con tecnologías como React, JavaScript, HTML, CSS, TailwindCSS, Bootstrap y Next.js. 
+En cuanto a las tecnologías, cuento con experiencia tanto en **frontend** como en **backend**, participando en proyectos de desarrollo web y contemplando el desarrollo end-to-end (brindando un servicio fullstack). En el área frontend, he trabajado con ReactJs, JavaScript, TypeScript, HTML, CSS, TailwindCSS, Bootstrap.
 
 En el ámbito backend, he utilizado Node.js, Express y WebSockets, desarrollando **APIs REST** siguiendo buenas prácticas de organización como separación en models, routes, managers y conexión con bases de datos. En cuanto al manejo de bases de datos, tengo experiencia trabajando con MongoDB (utilizando MongoDB Atlas), así como también con bases SQL, principalmente PostgreSQL y Supabase.
 
