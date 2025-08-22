@@ -1,13 +1,15 @@
 <h1 align="center"> Hola, soy Sebastian Alejandro Reibold</h1>
-<h3 align="center">  Analista Programador Universitario | Fullstack Developer </h3>
+<h3 align="center"> Analista Programador Universitario | Fullstack Developer </h3>
 
 ### 👋 Sobre Mí
 
 Soy estudiante avanzado de **Ciencias de la Computación en la Universidad Nacional del Comahue** (UNCO), con el título intermedio de **Analista Programador Universitario**, y también me desempeño como desarrollador de **software** autodidacta, con experiencia en pasantías, proyectos independientes y formación mediante cursos.
 
-En cuanto a las tecnologías, cuento con experiencia tanto en **frontend** como en **backend**, participando en proyectos de desarrollo web y contemplando el desarrollo end-to-end (brindando un servicio fullstack). En el área frontend, he trabajado con ReactJs, JavaScript, TypeScript, HTML, CSS, SCSS, TailwindCSS, Bootstrap.
+En cuanto a las tecnologías, cuento con experiencia tanto en **frontend** como en **backend**, participando en proyectos de desarrollo web end-to-end (fullstack). En el área **frontend**, he trabajado con **ReactJS**, **JavaScript**, *TypeScript*, HTML, CSS, SCSS, TailwindCSS y Bootstrap.
 
-En el ámbito backend, he utilizado Node.js, Express y WebSockets, desarrollando **APIs REST** siguiendo buenas prácticas de organización como separación en models, routes, managers y conexión con bases de datos. En cuanto al manejo de bases de datos, tengo experiencia trabajando con MongoDB (utilizando MongoDB Atlas), así como también con bases SQL, principalmente PostgreSQL y Supabase.
+En el ámbito **backend**, he desarrollado APIs REST con **Node.js** y **Express**, aplicando buenas prácticas de organización (models, routes, managers y conexión con bases de datos). Actualmente me estoy capacitando en NestJS para fortalecer aún más mis habilidades en arquitecturas escalables.
+
+Respecto a bases de datos, tengo un manejo sólido de sistemas relacionales, principalmente PostgreSQL y MySQL, adquirido durante mis estudios y proyectos prácticos. Además, cuento con experiencia en bases NoSQL, especialmente MongoDB (utilizando MongoDB Atlas).
 
 ### 🔮  Mi Foco Actual y Futuro
 
