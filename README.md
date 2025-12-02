@@ -3,7 +3,7 @@
 
 ###  Sobre Mí
 
-Soy estudiante avanzado de **Ciencias de la Computación en la Universidad Nacional del Comahue** (UNCO), con el título intermedio de **Analista Programador Universitario**, y también me desempeño como desarrollador de **software** autodidacta, con experiencia en pasantías, proyectos independientes y formación mediante cursos.
+Soy estudiante avanzado de **Ciencias de la Computación en la Universidad Nacional del Comahue** (UNCO), con el título intermedio de **Analista Programador Universitario**, y también me desempeño como desarrollador de **software**.
 
 En cuanto a las tecnologías, cuento con experiencia tanto en **frontend** como en **backend**, participando en proyectos de desarrollo web end-to-end (fullstack). En el área **frontend**, he trabajado con **ReactJS**, **JavaScript**, *TypeScript*, HTML, CSS, SCSS, TailwindCSS y Bootstrap.
 
