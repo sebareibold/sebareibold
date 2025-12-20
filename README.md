@@ -5,9 +5,9 @@
 
 I am a 5th-year **Computer Science** student at the **National University of Comahue**, holding the intermediate degree of **University Programming Analyst**. I work professionally in software development, with experience in both **full-stack engineering** and **AI/ML systems**.
 
-I have built end-to-end web applications, working across frontend and backend layers using modern technologies. On the frontend, I develop responsive interfaces with **React** and modern CSS frameworks. On the backend, I design and implement **REST APIs** using **Node.js**, **Express**, and scalable architectures, integrating **SQL and NoSQL databases**.
+I have built end-to-end web and mobiles applications, working across frontend and backend layers using modern technologies. On the frontend, I develop responsive interfaces with **React** and modern CSS frameworks. On the backend, I design and implement **REST APIs** using **Node.js**, **Express.Js**, and **Nest.Js** scalable architectures, integrating **SQL and NoSQL databases** like PosgreSQL, MySQL, MariaDB, MongoDB.
 
-Currently, I work as an **AI/ML Engineer**, developing AI-driven systems with **Python**, focusing on LLM integration, RAG pipelines, embeddings, and vector databases. I am motivated by building robust, maintainable systems and continuously improving my engineering skills.
+Currently, I work as an **AI Engineer**, working with **Python**, **n8n**, LLM integration, RAG pipelines, embeddings, and vector databases to build modular and maintainable AI systems.
 
 ### Technologies and Tools
 
