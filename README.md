@@ -28,11 +28,10 @@ Currently, I work as an **AI Engineer**, working with **Python**, **n8n**, LLM i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" title="MongoDB" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="32" alt="Supabase" title="Supabase" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+     height="32" alt="Python" title="Python" />
  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="TailwindCSS" title="TailwindCSS" />
   
 <!-- Herramientas y Despliegue -->
@@ -40,8 +39,5 @@ Currently, I work as an **AI Engineer**, working with **Python**, **n8n**, LLM i
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="32" alt="Netlify" title="Netlify" />
   <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="32" alt="Hostinger" title="Hostinger" />
   <img src="https://cdn.simpleicons.org/railway/0B0D0D" height="32" alt="Railway" title="Railway" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VSCode" title="VSCode" />
+
 </p>
