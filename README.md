@@ -1,21 +1,15 @@
-<h1 align="center"> Hola, soy Sebastian Alejandro Reibold</h1>
-<h3 align="center"> Analista Programador Universitario | Fullstack Developer </h3>
+<h1 align="center">Hi, I'm Sebastian Alejandro Reibold</h1>
+<h3 align="center">University Programming Analyst | Full-Stack & AI/ML Engineer</h3>
 
-###  Sobre Mí
+### About Me
 
-Soy estudiante avanzado de **Ciencias de la Computación en la Universidad Nacional del Comahue** (UNCO), con el título intermedio de **Analista Programador Universitario**, y también me desempeño como desarrollador de **software**.
+I am a 5th-year **Computer Science** student at the **National University of Comahue**, holding the intermediate degree of **University Programming Analyst**. I work professionally in software development, with experience in both **full-stack engineering** and **AI/ML systems**.
 
-En cuanto a las tecnologías, cuento con experiencia tanto en **frontend** como en **backend**, participando en proyectos de desarrollo web end-to-end (fullstack). En el área **frontend**, he trabajado con **ReactJS**, **JavaScript**, *TypeScript*, HTML, CSS, SCSS, TailwindCSS y Bootstrap.
+I have built end-to-end web applications, working across frontend and backend layers using modern technologies. On the frontend, I develop responsive interfaces with **React** and modern CSS frameworks. On the backend, I design and implement **REST APIs** using **Node.js**, **Express**, and scalable architectures, integrating **SQL and NoSQL databases**.
 
-En el ámbito **backend**, he desarrollado APIs REST con **Node.js** y **Express**, aplicando buenas prácticas de organización (models, routes, managers y conexión con bases de datos). Actualmente me estoy capacitando en NestJS para fortalecer aún más mis habilidades en arquitecturas escalables.
+Currently, I work as an **AI/ML Engineer**, developing AI-driven systems with **Python**, focusing on LLM integration, RAG pipelines, embeddings, and vector databases. I am motivated by building robust, maintainable systems and continuously improving my engineering skills.
 
-Respecto a bases de datos, tengo un manejo sólido de sistemas relacionales, principalmente PostgreSQL y MySQL, adquirido durante mis estudios y proyectos prácticos. Además, cuento con experiencia en bases NoSQL, especialmente MongoDB (utilizando MongoDB Atlas).
-
-###   Mi Foco Actual y Futuro
-
-Actualmente, mi prioridad es la Universidad, al mismo tiempo que me capacito de forma autodidacta en tecnologías que me permitan insertarme en el mundo IT, ya sea participando en proyectos o accediendo a una posición dentro del sector.
-
-###  Tecnologías y Herramientas
+### Technologies and Tools
 
 <p align="center">
   <!-- Lenguajes -->
