@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sebastian Alejandro Reibold</h1>
-<h3 align="center">University Programming Analyst | Full-Stack & AI/ML Engineer</h3>
+<h3 align="center">University Programming Analyst | Full-Stack & AI Engineer</h3>
 
 ### About Me
 
@@ -39,5 +39,6 @@ Currently, I work as an **AI Engineer**, working with **Python**, **n8n**, LLM i
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="32" alt="Netlify" title="Netlify" />
   <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="32" alt="Hostinger" title="Hostinger" />
   <img src="https://cdn.simpleicons.org/railway/0B0D0D" height="32" alt="Railway" title="Railway" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   height="32" alt="Docker" title="Docker" />
 
 </p>
