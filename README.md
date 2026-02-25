@@ -1,15 +1,18 @@
 <h1 align="center">Hi, I'm Sebastian Alejandro Reibold</h1>
-<h3 align="center">University Programming Analyst | AI Engineer &  Full-Stack </h3>
+<h3 align="center">University Programming Analyst | Software Engineer  </h3>
 
 ### About Me
 
-I am a 5th-year **Computer Science** student at the **National University of Comahue**, holding the intermediate degree of **University Programming Analyst**. I work professionally in software development, with experience in both **full-stack develoment** and **AI systems**.
+I am a **Software Engineer** and 5th-year **Computer Science** student at the **National University of Comahue**, holding the intermediate degree of **University Programming Analyst**.
 
-I currently work as an **AI Engineer**, where I design and implement AI solutions with a strong focus on backend architecture and automation. 
-My work focuses on building modular AI systems, using architectures such as **Single-Agent** and **Multi-Agent Systems**. I leverage **n8n** for rapid MVP development and transition to **Python** implementations for post-MVP. In this context, I integrate LLMs and develop end-to-end RAG architectures, covering ingestion pipelines, chunking, indexing, embedding generation, and vector database management.
+My work focuses on building **real-world software systems end-to-end**, combining solid software engineering practices with modern **AI-driven architectures**. I specialize in designing scalable backend systems, APIs, and full-stack applications that bring intelligent services into production environments.
 
+Currently, I work as an **AI Software Engineer**, designing and implementing production-ready solutions based on **Multi-Agent** and **RAG architectures**. My work involves evolving rapid prototypes into maintainable systems, developing backend services in **Python**, exposing high-performance APIs, and integrating LLM-powered workflows into real applications.
 
-On my projects and professional roles where I worked as a **full-stack developer**, I built end-to-end web and mobile applications, developing responsive UIs with React.js and React Native, and scalable REST APIs with Node.js, Express.js, and NestJS, integrating SQL and NoSQL databases.
+Beyond AI systems, I have professional experience as a **Full-Stack Developer**, building complete web platforms and applications. I develop responsive interfaces using **React** and modern frontend tooling, while designing scalable backend architectures with **Node.js**, **Express**, and **NestJS**, integrating both SQL and NoSQL databases.
+
+I enjoy working at the intersection of **software engineering, system design, and applied AI**, focusing on writing clean, scalable, and production-oriented code.
+
 ### Technologies and Tools
 
 <p align="center">
