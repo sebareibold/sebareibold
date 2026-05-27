@@ -5,9 +5,11 @@
 
 I am a **Software Engineer** and 5th-year **Computer Science** student at the **National University of Comahue**, holding the intermediate degree of **University Programming Analyst**.
 
-My work focuses on building **real-world software systems end-to-end**, combining solid software engineering practices with modern **AI-driven architectures**. I specialize in designing scalable backend systems, APIs, and full-stack applications that bring intelligent services into production environments.
+I currently work as a **Freelance Software Engineer**, developing custom software solutions for clients, ranging from full-stack web platforms to AI-powered systems and automation tools. My work focuses on building **real-world software systems end-to-end**, combining strong software engineering practices with modern **AI-driven architectures**.
 
-Currently, I work as an **AI Software Engineer**, designing and implementing production-ready solutions based on **Multi-Agent** and **RAG architectures**. My work involves evolving rapid prototypes into maintainable systems, developing backend services in **Python**, exposing high-performance APIs, and integrating LLM-powered workflows into real applications.
+I specialize in designing scalable backend systems, APIs, and full-stack applications that bring intelligent services into production environments.
+
+My recent work has focused heavily on **AI Software Engineering**, designing and implementing production-ready solutions based on **Multi-Agent** and **RAG architectures**. I work on transforming rapid prototypes into maintainable systems, developing backend services in **Python**, exposing high-performance APIs, and integrating LLM-powered workflows into real applications.
 
 Beyond AI systems, I have professional experience as a **Full-Stack Developer**, building complete web platforms and applications. I develop responsive interfaces using **React** and modern frontend tooling, while designing scalable backend architectures with **Node.js**, **Express**, and **NestJS**, integrating both SQL and NoSQL databases.
 
