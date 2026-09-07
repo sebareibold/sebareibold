@@ -5,11 +5,15 @@
 
 I am an **AI & Software Engineer** and 5th-year **Computer Science** student at the **National University of Comahue**, holding the intermediate degree of **University Programming Analyst**.
 
-I build **production AI systems** — **Multi-Agent** and **RAG** architectures with **Python**, **LangGraph** and **FastAPI** — and the **full-stack platforms** that put them in front of real users, with **TypeScript**, **React** and **Node.js**. I currently apply this in the **provincial public sector**, developing digital citizen-service channels with on-premise LLMs and multichannel conversational systems.
+I currently work in the **provincial public sector**, developing and maintaining **web applications, APIs, and large-scale AI agents and conversational systems** for digital citizen services.
 
-I am also a **Teaching Assistant** in the Programming Department at UNCo, teaching programming fundamentals in **Java** and **PHP**.
+My work covers **software development, system architecture, API development, integrations, infrastructure, and the evolution of existing platforms**, working with technologies such as **React, TypeScript, Node.js, Laravel, PHP, NestJS, FastAPI, and Python**.
 
-I enjoy working at the intersection of **software engineering, system design, and applied AI**, focusing on writing clean, scalable, and production-oriented code.
+My current focus also includes **Artificial Intelligence**, particularly **LLMs, RAG, and Multi-Agent architectures**, as well as their application to real-world systems.
+
+Alongside my professional work, I am a **Teaching Assistant** in the Programming Department at UNCo, where I teach programming fundamentals using **Java** and **PHP**.
+
+I enjoy working at the intersection of **software engineering, system design, infrastructure, and applied AI**, building practical, scalable, and reliable solutions.
 
 ### Technologies and Tools
 
